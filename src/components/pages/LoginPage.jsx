@@ -6,11 +6,11 @@ function Login() {
         <form action="">
           <h1>Login</h1>
           <div className="input-box">
-            <input type="text" placeholder='Username' required />
+            <input type="text" placeholder='     Username' required />
             <FaUserAlt className="icon"/>
           </div>
           <div className="input-box">
-          <input type="text" placeholder='Password' required />
+          <input type="text" placeholder='     Password' required />
           <FaLock className="icon"/>
           </div>
           <div className="remember-forgot">
